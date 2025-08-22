@@ -24,7 +24,7 @@ A small, standalone toolkit you can run **outside your app** to identify your **
 ## Folder Layout
 
 ```
-e7_sift_demo/
+e7_sift_draft_matcher/
   requirements.txt
   README.md
   data/
@@ -44,7 +44,6 @@ e7_sift_demo/
     annotated.png                  # detect_once output
     matches.json                   # per‑slot results
     annotated_live.png             # monitor_gate output (if used)
-    matches_live.json
   calibrate_rois.py
   calibrate_anchor.py
   detect_once.py
